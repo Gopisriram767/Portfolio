@@ -344,13 +344,13 @@ footer {
     background: #0a0a0a;
     color: #666;
 }
-
+```
 ## OUTPUT
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+![alt text](home.png)
+![alt text](about.png)
+![alt text](projects.png)
+![alt text](contact.png)
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
